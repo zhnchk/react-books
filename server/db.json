@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": "14ca8ebf-c22f-47b6-af82-4c1a2df91628",
+      "title": "The Phoenix Project: A Novel about IT",
+      "author": "Gene Kim, Kevin Behr, and George Spafford",
+      "category": "Internet Technology",
+      "isbn": 9857387659185,
+      "isActive": true,
+      "createdAt": "4 March 2025, 7:59PM",
+      "modifiedAt": "5 March 2025, 1:36PM"
+    },
+    {
+      "id": "c19f088a-a4ba-4282-a349-42469354e409",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Classics",
+      "isbn": 9687123124532,
+      "isActive": false,
+      "createdAt": "4 March 2025, 8:02PM",
+      "modifiedAt": "-"
+    },
+    {
+      "id": "f946db04-350e-471e-b92d-950ce52e726e",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Classics",
+      "isbn": 9887543828521,
+      "isActive": true,
+      "createdAt": "4 March 2025, 8:02PM",
+      "modifiedAt": "5 March 2025, 1:38PM"
+    },
+    {
+      "id": "4846cf0f-e497-4d94-a57b-8570ee999957",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classics",
+      "isbn": 9892435727356,
+      "isActive": true,
+      "createdAt": "4 March 2025, 8:03PM",
+      "modifiedAt": "-"
+    },
+    {
+      "id": "522a931e-700c-47fd-8c44-4dafee92a71d",
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "category": "Biography",
+      "isbn": 9894235725345,
+      "isActive": false,
+      "createdAt": "4 March 2025, 8:04PM",
+      "modifiedAt": "-"
+    },
+    {
+      "id": "1bddef97-d415-473a-aca7-a73055dbb0d8",
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "category": "Science fiction",
+      "isbn": 9787453255434,
+      "isActive": true,
+      "createdAt": "4 March 2025, 8:05PM",
+      "modifiedAt": "-"
+    }
+  ]
+}
