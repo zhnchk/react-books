@@ -1,6 +1,6 @@
 ## React + TypeScript + Vite
 
-# Run app in 2 commands
+# Run app in 3 commands
 
 1. git clone https://github.com/zhnchk/react-books.git
 2. npm i
